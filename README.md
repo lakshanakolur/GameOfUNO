@@ -1,8 +1,8 @@
-# GAME OF UNO
+# Game Of UNO
 
 Simple 2- player game of UNO implemented using Arrays and Stacks and containing features of adding cards to a pile, picking up cards, Draw4 and other such features of the game.
 
-## DATA STRUCTURES:
+## Data Structures:
 
 For main pile, **Array**
 •	Randomize,
