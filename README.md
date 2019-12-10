@@ -1,22 +1,19 @@
 # GAME OF UNO
 
+Simple 2- player game of UNO implemented using Arrays and Stacks and containing features of adding cards to a pile, picking up cards, Draw4 and other such features of the game.
+
 ## HOW TO PLAY UNO
 
 Number of Players: 2 you and the computer
 
 #### Dealing cards:
 1. RED: 0,1,2,3,4,5,6,7,8,9, skip, reverse, draw two.
-
 2. BLUE: 0,1,2,3,4,5,6,7,8,9, skip, reverse, draw two.
-
 3. YELLOW: 0,1,2,3,4,5,6,7,8,9, skip, reverse, draw two.
-
 4. GREEN: 0,1,2,3,4,5,6,7,8,9, skip, reverse, draw two.
-
 5. 2 wild cards , 2 wild draw four’s.
 
 - Deal seven cards to computer and to player.
-
 - Player 7 cards are allotted : 
 
 #### EXAMPLE: 
@@ -78,19 +75,12 @@ __________________________________________________________
 ## DATA STRUCTURES:
 
 For main pile, **Array**
-
 •	Randomize,
-
 For discard pile: **Stack**
-
 •	Push
-
 •	Peek
-
 For Player hand card: **Singly linked list:**
-
 •	Insert at the end
-
 •	Delete by info
 
 
