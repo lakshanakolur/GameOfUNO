@@ -2,7 +2,18 @@
 
 Simple 2- player game of UNO implemented using Arrays and Stacks and containing features of adding cards to a pile, picking up cards, Draw4 and other such features of the game.
 
-## HOW TO PLAY UNO
+## DATA STRUCTURES:
+
+For main pile, **Array**
+•	Randomize,
+For discard pile: **Stack**
+•	Push
+•	Peek
+For Player hand card: **Singly linked list:**
+•	Insert at the end
+•	Delete by info
+
+## How to Play the Game
 
 Number of Players: 2 you and the computer
 
@@ -72,16 +83,7 @@ IT CAN PUSH AND POP.
 “PLAYER WINS”
 __________________________________________________________
 
-## DATA STRUCTURES:
 
-For main pile, **Array**
-•	Randomize,
-For discard pile: **Stack**
-•	Push
-•	Peek
-For Player hand card: **Singly linked list:**
-•	Insert at the end
-•	Delete by info
 
 
 
